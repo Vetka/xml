@@ -1,0 +1,5 @@
+D:\kurs\IT.Place\C#\xmlnew\xmlnew\xmlnew\bin\Debug\xmlnew.exe
+D:\kurs\IT.Place\C#\xmlnew\xmlnew\xmlnew\bin\Debug\xmlnew.pdb
+D:\kurs\IT.Place\C#\xmlnew\xmlnew\xmlnew\obj\x86\Debug\xmlnew.exe
+D:\kurs\IT.Place\C#\xmlnew\xmlnew\xmlnew\obj\x86\Debug\xmlnew.pdb
+D:\kurs\IT.Place\C#\xmlnew\xmlnew\xmlnew\obj\x86\Debug\xmlnew.csprojResolveAssemblyReference.cache

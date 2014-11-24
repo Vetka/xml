@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student Name="Петров Игорь Степанович">
+    <Course>3</Course>
+    <Specialty>Машинист погрузочной машины</Specialty>
+  </Student>
+  <Student Name="Маркина Светлана Анатольевна">
+    <Course>1</Course>
+    <Specialty>Социальный работник</Specialty>
+  </Student>
+  <Student Name="Журавлев Николай Константинович">
+    <Course>4</Course>
+    <Specialty>Плавка металла</Specialty>
+  </Student>
+  <Student Name="Сидоренко Павел Григорьевич">
+    <Course>3</Course>
+    <Specialty>Повар - кондитер</Specialty>
+  </Student>
+  <Student Name="Тимошин Евгений Викторович">
+    <Course>3</Course>
+    <Specialty>Машинист погрузочной машины</Specialty>
+  </Student>
+  <Student Name="Шишкина Наталья Леонидовна">
+    <Course>5</Course>
+    <Specialty>Конструирование и моделирование одежды</Specialty>
+  </Student>
+  <Student Name="Зубков Степан Александрович">
+    <Course>5</Course>
+    <Specialty>Обработка металлов давлением</Specialty>
+  </Student>
+  <Student Name="Травкина Елена Дмитриевна">
+    <Course>4</Course>
+    <Specialty>Конструирование и моделирование одежды</Specialty>
+  </Student>
+  <Student Name="Ситникова Татьяна Николаевна">
+    <Course>1</Course>
+    <Specialty>Повар - кондитер</Specialty>
+  </Student>
+  <Student Name="Лапшин Игорь Иванович">
+    <Course>1</Course>
+    <Specialty>Обработка металлов давлением</Specialty>
+  </Student>
+</ArrayOfStudent>
